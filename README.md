@@ -1,2 +1,2 @@
 # sql_data
-data and informishan
+data and information
